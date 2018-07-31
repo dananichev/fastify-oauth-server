@@ -1,5 +1,5 @@
 {
-  "name": "@dananichev/fastify-oauth-server",
+  "name": "@trashy/fastify-oauth-server",
   "description": "OAuth provider for Fasitfy",
   "version": "3.0.2",
   "main": "index.js",
